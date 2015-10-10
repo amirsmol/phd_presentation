@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Application of Piezoelectric Materials}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Introduction on Piezoelectricity}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Electromechanical Response}{9}{0}{1}
+\beamer@subsectionintoc {1}{4}{Motivation}{13}{0}{1}
+\beamer@sectionintoc {2}{Electromechanical Constitutive Models}{15}{0}{2}
+\beamer@subsectionintoc {2}{1}{Non Linear Time Dependent Model for Polarized State}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Polarization Switching}{21}{0}{2}
+\beamer@sectionintoc {3}{Finite Element Formulation}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{Electromechanical Finite Element Model}{27}{0}{3}
+\beamer@sectionintoc {4}{Result and Discussion}{32}{0}{4}
+\beamer@subsectionintoc {4}{1}{Response of Polarized Materials}{32}{0}{4}
+\beamer@subsectionintoc {4}{2}{Polarization Switching Response}{35}{0}{4}
+\beamer@subsectionintoc {4}{3}{Structural Analyses}{38}{0}{4}
+\beamer@subsectionintoc {4}{4}{Active Trusses}{52}{0}{4}
